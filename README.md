@@ -1,4 +1,13 @@
-## This is HealthCare domain project done utilizing Power BI visualization tool.
+## Project Overview
+This project involves developing a comprehensive Power BI dashboard to analyze and report on Emergency Room (ER) visit data for healthcare patients. The primary objective is to provide healthcare professionals with actionable insights into patient visit trends, resource utilization, and overall ER performance. Key metrics and visualizations included in the dashboard focus on:
+
+- Patient Visit Trends: Understanding the volume and patterns of ER visits over time.
+- Wait Time Analysis: Monitoring the time patients spend from check-in to being seen by a healthcare provider.
+- Resource Allocation: Evaluating the utilization of medical staff and facilities during peak hours.
+- Patient Demographics: Analyzing the demographic information of patients to identify at-risk groups
+
+### Tools used:
+Microsoft Power BI(Data cleaning, Data Modelling, DAX functions)
 
 ## Dashboard
 ![image](https://github.com/user-attachments/assets/0f6b3649-210c-4c2a-9bbe-fd50b7a2ecc1)
@@ -19,7 +28,7 @@ A significant portion of services (75.71%) were not rated, which could indicate 
 ##### Department Referrals:
 - The General Practice department received the highest number of referrals (924), followed by Orthopedics (469) and Physiotherapy (164).
 - Specialized departments such as Cardiology, Neurology, and Renal had significantly fewer referrals, suggesting that most cases were either general or orthopedic in nature.
-#####Trends Over Time:
+##### Trends Over Time:
 - The number of total visits peaked in March (540), possibly due to seasonal factors or specific health-related events, with the lowest in December (164).
 - The year-over-year trend shows an increase in patient visits from 2019 to 2020, which could be indicative of growing demand or other external factors.
 Wait Time Analysis:
